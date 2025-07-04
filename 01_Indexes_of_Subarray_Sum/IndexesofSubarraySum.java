@@ -16,6 +16,8 @@ Input: arr[] = [5, 3, 4], target = 2
 Output: [-1]
 Explanation: There is no subarray with sum 2.
 
+Time Complexity O(n^2)
+
 */
 import java.util.*;
 public class IndexesofSubarraySum{
